@@ -1,0 +1,3 @@
+# Executive Summary
+
+weLore is a narrative loyalty SaaS platform for brands, companies, and influencers. It transforms every interaction with the community into part of the brand's legacy, integrating coins, digital items, season pass, referrals, and rewards. The goal is to validate the model with high, medium, or low-ticket clients and scale towards automation. We will use the $WEL token as a growth engine securing key alliances.

@@ -1,0 +1,3 @@
+# Resumen Ejecutivo
+
+weLore es una plataforma SaaS de fidelización narrativa para marcas, empresas e influencers. Transforma cada interacción con la comunidad en parte del legado de marca, integrando monedas, ítems digitales, pase de temporada, referidos y recompensas. El objetivo es validar el modelo con clientes de ticket alto, medio o bajo y escalar hacia automatización. Usaremos el token $WEL como motor de crecimiento consiguiendo alianzas clave.
