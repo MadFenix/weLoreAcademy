@@ -14,11 +14,13 @@ To do this, it will be necessary to **connect the wallet to the weLore profile a
 
 Each type of NFT is linked to a fixed amount of monthly $WEL. **The more NFTs you have, the greater your reward**, as the amounts **automatically accumulate** according to the total amount you possess at the time of each snapshot.
 
-| NFT Type | Number of NFTs | Multiplier | $WEL tokens/month (total per group) | $WEL tokens/month per NFT |
+| NFT Type | Number of active NFTs | Multiplier | $WEL tokens/month (total per group) | $WEL tokens/month per NFT |
 | --- | --- | --- | --- | --- |
 | GUARDIAN DRAGONS and CHRONICLERS | 220 | 1× | 220,000 | 1,000 |
 | GUARDIAN DRAGON KING | 3 | 10× | 30,000 | 10,000 |
 | **Total** | **223** | — | **250,000** | — |
+
+The maximum total number of Guardian Dragons and Chroniclers to be distributed over the years is 2,006. The maximum number of special Guardian Dragons with 10x is 6. The percentage of the 250,000 $WEL/month distributed to active NFTs can be updated once per quarter.
 
 📌 **Practical example:**  
 If your wallet has **2 GUARDIAN DRAGON NFTs** and **3 CHRONICLER NFTs**, you can claim **1000 x 5 = 5,000 $WEL per month**.
