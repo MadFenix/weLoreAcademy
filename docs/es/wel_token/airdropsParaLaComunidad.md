@@ -24,11 +24,13 @@ Tokens $WEL/mes (total por grupo)
 
 Tokens $WEL/mes por NFT
 
-| Tipo de NFT | Cantidad de NFTs | Multiplicador | Tokens $WEL/mes (total por grupo) | Tokens $WEL/mes por NFT |
+| Tipo de NFT | Cantidad de NFTs activos | Multiplicador | Tokens $WEL/mes (total por grupo) | Tokens $WEL/mes por NFT |
 | --- | --- | --- | --- | --- |
 | DRAGONES CUSTODIO y CRONISTAS | 220 | 1× | 220,000 | 1,000 |
 | DRAGONES CUSTODIO REY | 3 | 10× | 30,000 | 10,000 |
 | **Total** | **223** | — | **250,000** | — |
+
+El total máximo de dragones custodio y cronistas que se distribuirán con los años es de 2006. El máximo de dragones custodio especiales con 10x es de 6. El porcentaje de los 250,000 $WEL/mes distribuidos que tocan a los NFTs en activo se puede actualizar una vez por trimestre.
 
 📌 **Ejemplo práctico:**  
 Si en tu wallet hay **2 NFTs DRAGONES CUSTODIO** y **3 NFTs CRONISTA**, podrás reclamar **1000 x 5 = 5.000 $WEL al mes**.
