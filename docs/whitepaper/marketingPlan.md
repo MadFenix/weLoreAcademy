@@ -3,7 +3,6 @@
 **Stage 1: Validation (4 months)**
 * Early access for Guardian Dragon holders. 
 * High-ticket clients ($1,000–$5,000) with customization, direct feedback, and improvements. 
-* High-ticket focus on creators with +500K engaged followers. 
 * Contact through personal network and customized videos to showcase use cases. 
 * Seeking alliances for the growth engine with the $WEL token. Ambassadors, marketing, and patrons.
 
