@@ -1,6 +1,9 @@
 * [Ir a weLore](https://welore.io)
 
 * [Go to English](/)
+ 
+* Academia
+  * [Subir imágenes](es/academia/subirImagenes.md)
 
 * WhitePaper
   * [Resumen Ejecutivo](es/whitepaper/resumenEjecutivo.md)
