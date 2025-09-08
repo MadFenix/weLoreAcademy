@@ -6,6 +6,9 @@ weLore es el sistema de fidelización que convierte cada interacción en parte d
 
 * [Go to English](/)
 
+* Academia
+    * [Subir imágenes](es/academia/subirImagenes.md)
+
 * WhitePaper
     * [Resumen Ejecutivo](es/whitepaper/resumenEjecutivo.md)
     * [Descripción del Producto](es/whitepaper/descripcionDelProducto.md)

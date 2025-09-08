@@ -6,6 +6,9 @@ weLore is the loyalty system that turns every interaction into part of your bran
 
 * [Ir a Español](/es/)
 
+* Academy
+    * [Upload Images](academy/uploadImages.md)
+
 * WhitePaper
     * [Executive Summary](whitepaper/executiveSummary.md)
     * [Product Description](whitepaper/productDescription.md)
