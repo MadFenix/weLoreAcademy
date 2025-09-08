@@ -2,6 +2,9 @@
 
 * [Ir a Español](/es/)
 
+* Academy
+  * [Upload Images](academy/uploadImages.md)
+
 * WhitePaper
   * [Executive Summary](whitepaper/executiveSummary.md)
   * [Product Description](whitepaper/productDescription.md)
